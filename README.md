@@ -1,4 +1,4 @@
-# React-Weather
+# React-Weather - Bashisthasudeep
 
 React-Weather is a user-friendly weather application built using React, React-Router, Redux, and powered by LocationIQ and RESTCountries APIs. This documentation will guide you through the app's features, technologies, setup, and usage.
 
